@@ -1,0 +1,87 @@
+header {
+	background-color: #c8c3cc;
+	height: 100px;
+	width:100%;
+	position: fixed;
+	top: 0px;
+	border-bottom: 5px solid #563f46;
+}
+
+.headbox {
+	height: 46px;
+    width: 20%;
+    background-color: #484f4f;
+    color: white;
+    float: left;
+    margin-left: 5%;
+    position: fixed;
+    margin-top: 0px;
+    padding: 27px;
+    text-align: center;
+}
+
+.nav {
+	list-style: none;
+	float: right;
+	margin-right: 5%;
+	font-size: 19px;
+}
+
+.nav li {
+	display: inline-block;
+	padding: 10px;
+	color: #563f46;
+	margin-top: 5%;
+}
+
+.nav li a:link, .nav li a:visited {
+	color: #563f46;
+	text-decoration: none;
+}
+
+.nav li a:hover {
+	color: #563f46;
+	font-weight: bold;
+}
+
+.nav li a:active {
+	color: #563f46;
+	font-weight: bold;
+	background-color:#8ca3a3;
+	border: 1px solid #563f46;
+}
+
+
+
+.container {
+	background: url('wood.jpg') no-repeat;
+	background-size: 100%
+	width: 100%;
+	height: 1000px;
+	margin: auto;
+	margin-top: 105px;
+
+}
+
+.box1 {
+	width: 50%;
+	height: 300px;
+	border: 2px solid black;
+	float: left;
+	margin: 5% 0 0 5%;
+}
+
+.box2 {
+	width: 20%;
+	height: 300px;
+	border: 2px solid black;
+	float: right;
+	margin: 5% 5% 0 0;
+}
+
+footer {
+	background-color: #c8c3cc;
+	height: 50px;
+	width: 100%;
+	border-top: 3px solid #563f46;
+}
