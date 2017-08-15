@@ -165,11 +165,21 @@ form button {
 }
 
 
-/*CONTACT*/
+/*PORTFOLIO*/
+
+td {
+	width: 25%;
+	height: 300px;
+}
 
 .portfolio-pic {
 	width: 75%;
 	margin: 0px auto;
 	display: block;
 	margin-bottom: 20px;
+	position: relative;
+}
+
+a span {
+	position: absolute;
 }
