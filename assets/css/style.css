@@ -13,7 +13,6 @@ header {
 }
 
 .headbox {
-/*	height: 46px;*/
     width: 20%;
     background-color: #484f4f;
     color: white;
@@ -41,7 +40,6 @@ header {
 	padding: 10px;
 	color: #563f46;
 	margin-top: 5%;
-/*	border: 2px solid black;*/
 }
 
 .nav li a:link, .nav li a:visited {
